@@ -8,6 +8,6 @@ banán
 [Alapvető szintaxis](https://www.markdownguide.org/basic-syntax)  
 
 
-alma
-körte
-banán
+alma  
+körte  
+banán  
