@@ -1,7 +1,7 @@
 # Verziókezelés alpjai
 ## README.md
 >Az állomány szerepe: összefoglaló oldal a **repozitoriról** (*verziókövetett projekt*)  
-> md -> ***markdown*** szintaxissal leírt dokumentum  
+md -> ***markdown*** szintaxissal leírt dokumentum  
 alma
 körte
 banán
